@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on POSITOPIA 
 [Front-End](https://github.com/mtabala/positopia-client) | [Back-End](https://github.com/mtabala/positopia-server)
 
-- 🌱 I’m currently learning **Typescript** & I'm enrolled in the **UX Design Course**
+- 🌱 I’m currently learning **Typescript**, **Tailwind**, **Bootstrap** & am enrolled in the **UX Design Course**
 
 - 📫 How to reach me **mariia.tabala@gmail.com**
 
