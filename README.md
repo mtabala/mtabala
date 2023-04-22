@@ -1,4 +1,4 @@
-<h1 align="center">Hello World  👩🏻‍💻 I'm Masha </h1>
+<h1 align="center">Hello World 👩🏼‍💻 I'm Masha </h1> 
 <h3 align="center">A multilingual Full-Stack Web Developer from Ukraine, Mexico & Canada 🌎</h3>
 
 - 🔭 I’m currently working on POSITOPIA 
