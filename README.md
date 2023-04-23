@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [My Resume](https://we.tl/t-dfnQQha3ZZ)
 
-- ⚡ Fun fact **I have a passion for languages and can speak 6 (🇺🇸 🇩🇪 🇪🇸 🇮🇹 🇷🇺 🇺🇦) 💭**
+- ⚡ Fun fact **I have a passion for languages and speak 6 (🇺🇸 🇩🇪 🇪🇸 🇮🇹 🇷🇺 🇺🇦) 💭**
 
 - 💬 Connect with me: <a href="https://linkedin.com/in/mtabala" target="blank"> My LinkedIn</a>
 
