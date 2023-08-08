@@ -2,14 +2,14 @@
 <h3 align="center">A multilingual Full-Stack Web Developer from Ukraine, Mexico & Canada 🌎</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mtabala&label=Profile%20views&color=0e75b6&style=flat" alt="mtabala" /> </p>
 
-- 🔭 I’m currently working on POSITOPIA 
-[Front-End](https://github.com/mtabala/positopia-client) | [Back-End](https://github.com/mtabala/positopia-server)
+- 🔭 I’m currently working on Personal Portfolio 
+[Front-End](https://github.com/mtabala/mariia-tabala-portfolio) 
 
-- 🌱 I’m currently learning **Typescript**, **WordPress**, **Three.js** & am enrolled in the **UX Design Course**
+- 🌱 I’m currently learning **TypeScript**, **Jest**, **Redux** & am enrolled in the **Coursera Course**
 
 - 📫 How to reach me **mariia.tabala@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://we.tl/t-dfnQQha3ZZ)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1uG1mQHCLEGxZ8v0OudZUXsnDbSjZ40JR/view?usp=sharing)
 
 - ⚡ Fun fact **I have a passion for languages and speak 6 (🇺🇸 🇩🇪 🇪🇸 🇮🇹 🇷🇺 🇺🇦) 💭**
 
