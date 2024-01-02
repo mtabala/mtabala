@@ -2,7 +2,7 @@
 <h3 align="center">A multilingual Full-Stack Web Developer from Ukraine, Mexico & Canada 🌎</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mtabala&label=Profile%20views&color=0e75b6&style=flat" alt="mtabala" /> </p>
 
-- 🔭 I’m currently working on Personal Portfolio 
+- 🔭 I’m currently working as a Junior Front End Developer as well as building my Personal Portfolio 
 [Front-End](https://github.com/mtabala/mariia-tabala-portfolio) 
 
 - 🌱 I’m currently learning **TypeScript**, **Jest**, **Redux** & am enrolled in the **Coursera Course**
